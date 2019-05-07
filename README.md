@@ -15,7 +15,7 @@ Work -
 	b. type of file to be downloaded
 
 
-Extend it fetch only specific data.
+ - Extend it to fetch only specific required data.
 
 Tech Requirements 
 Mysql, Java JSoup Library
